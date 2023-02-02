@@ -1,0 +1,145 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Montserrat:wght@600&family=Poppins:wght@200;300&family=Red+Hat+Display:wght@500&family=Spectral:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&family=Montserrat:wght@600&family=Poppins:wght@200;300&family=Red+Hat+Display:wght@500&family=Sacramento&family=Spectral:wght@700&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    text-align: center;
+    font-family: Verdana, sans-serif;
+}
+
+.top-container{
+    background-color: #AAE3E2;
+    padding-top: 100px;
+    line-height: 2;
+}
+
+h1{
+    font-family: "Sacramento";
+    font-size: 4em;
+    color: #11999E;
+}
+
+h2{
+    font-family: "Merriweather";
+    font-size: 1.5em;
+    font-weight: normal;
+    color: #11999E;
+    margin: 20px auto 20px auto;
+    padding-bottom: 10px;
+}
+
+hr{
+    border: dotted #FAD6A5 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto 100px auto;
+
+}
+
+h3{
+    color: #11999E;
+}
+
+a{
+    color: #11999E;
+    line-height: 5;
+    padding-right: 15px;
+    text-decoration: none;
+}
+
+p{
+    font-family: "Merriweather";
+
+}
+
+.img{
+    height: 250px;
+    width: 250px;
+    border-radius: 225px;
+
+}
+
+
+.skill-img{
+    margin: 0 30px 30px 0;
+    width: 25%;
+    float: left;
+}
+
+.skill-img2{
+    margin: 0 30px 30px 0;
+    width: 25%;
+    float: right;
+
+}
+    
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+
+}
+
+.profile{
+    width: 50%;
+    margin: auto;
+}
+
+.profile-txt{
+    width: 80%;
+    margin:auto;
+    line-height: 2;
+}
+
+    
+.cloud2{
+    position: absolute;
+}
+
+.cloud1{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+
+.contact-message{
+    width: 40%;
+    margin: 40px auto 40px auto;
+}
+
+.btn{
+    margin-top: 20px;
+    background-color: #02a98d;
+    padding: 10px;
+    border-radius: 10px;
+    color: white;
+    width: 150px;
+}
+
+.btn:hover{
+    background-color: #79d4c5;
+}
+
+.middle-container{
+    margin: 100px 0 100px 0;
+}
+
+.bottom-container{
+    background-color: #84D2C5;
+    padding: 15px;
+
+}
+
+.surname{
+    font-size: 12px;
+    color: white;
+    padding-bottom: 10px;
+
+}
